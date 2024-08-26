@@ -34,15 +34,17 @@ To run this project locally, follow these steps:
    ```
 
 ## How It Works
-UI Elements:
+### UI Elements:
 
 The display area shows the current expression or result.
 Buttons are used to input numbers and operations. Special symbols for division, multiplication, subtraction, and addition are used for better readability.
-Expression Evaluation:
+
+### Expression Evaluation:
 
 HTML Entities: Buttons use HTML entities (&divide;, &times;, &minus;, &plus;) for symbols.
 Evaluation Function: The expression is evaluated after converting HTML entities back to mathematical operators.
-Button Click Handling:
+
+### Button Click Handling:
 
 Updates the current expression based on the button clicked.
 Handles special buttons for clearing the display and deleting the last character.
