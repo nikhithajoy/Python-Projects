@@ -11,7 +11,7 @@ This project is a simple web application that generates QR codes from user-provi
 
 ## Demo
 
-You can see a live demo of the app [here](https://qrcode-generat0r.streamlit.app/) (replace with your deployment link).
+You can see a live demo of the app [here](https://qrcode-generat0r.streamlit.app/).
 
 ## Installation
 
