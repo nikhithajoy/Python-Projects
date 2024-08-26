@@ -6,6 +6,10 @@ A simple, interactive calculator built using Streamlit. This calculator supports
 - User-Friendly Interface: Simple and clean design with large buttons for ease of use.
 - Error Handling: Displays "Error" if the expression is invalid.
 
+## Demo
+
+You can see a live demo of the app [here](https://qrcode-generat0r.streamlit.app/) (replace with your deployment link).
+
 ## Installation
 To run this project locally, follow these steps:
 
