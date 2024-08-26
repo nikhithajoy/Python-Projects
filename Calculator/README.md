@@ -1,3 +1,5 @@
+# Simple Calculator Using Streamlit
+
 ![Calculator home page](https://github.com/user-attachments/assets/936de9b1-bbe0-4294-9b70-8a820d735d97)
 
 A simple, interactive calculator built using Streamlit. This calculator supports basic arithmetic operations and provides a user-friendly interface to perform calculations.
