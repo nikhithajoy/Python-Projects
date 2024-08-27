@@ -12,6 +12,7 @@ Welcome to the Random Number Guessing Game! This simple game challenges you to g
 
 ## Demo
 You can see a live demo of the app [here](https://random-number-guessing-game-njoy.streamlit.app/).
+
 ![Home page](https://github.com/user-attachments/assets/eb91d8a8-4874-4139-9583-be1f8707f267)
 
 ## How to Run
