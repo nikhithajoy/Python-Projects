@@ -11,7 +11,7 @@ Welcome to the Random Number Guessing Game! This simple game challenges you to g
 - Attempt Counter: Keep track of how many guesses it takes you to find the correct number.
 
 ## Demo
-You can see a live demo of the app here.
+You can see a live demo of the app [here].
 ![Home page](https://github.com/user-attachments/assets/eb91d8a8-4874-4139-9583-be1f8707f267)
 
 ## How to Run
